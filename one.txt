@@ -1,1 +1,3 @@
-First File
+This is the first file created
+
+exclusion README.md
