@@ -3,5 +3,6 @@ Third feature needs to be added
 architecture of third feature
 service part of third feature
 
+bug fixes for third feature
 
 plans for 4th new feature
